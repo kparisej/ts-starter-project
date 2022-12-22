@@ -1,3 +1,9 @@
+# Build folder
+public/
+
+# Cypress screenshots
+cypress/screenshots
+
 # Logs
 logs
 *.log
